@@ -1,0 +1,14 @@
+.vspace{
+	width:100%;
+	height:15px;
+}
+#box1{
+	padding-left:80px;
+	padding-right:80px;
+	padding-top:20px;
+}
+.done{
+	text-decoration: line-through;
+}
+.checkbox{
+};
